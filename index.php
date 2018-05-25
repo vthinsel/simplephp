@@ -1,4 +1,4 @@
 <?php
 
 echo "<br>Welcome to OpenShift";
-echo "<br> v1.0";
+echo "<br> v1.1";
