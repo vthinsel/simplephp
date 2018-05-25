@@ -1,6 +1,6 @@
 <?php
 echo "<br>Welcome to OpenShift";
-echo "<br> v1.3";
+echo "<br> v1.4";
 echo "<br>";
 echo $_SERVER['SERVER_NAME'];
 echo "<br>";
